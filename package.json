@@ -1,0 +1,24 @@
+{
+  "name": "psadmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bretjensen/react-flux.git"
+  },
+  "author": "Brett Jensen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bretjensen/react-flux/issues"
+  },
+  "homepage": "https://github.com/bretjensen/react-flux#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-open": "^2.0.0"
+  }
+}
